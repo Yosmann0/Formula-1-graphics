@@ -1,0 +1,2 @@
+livef1 == 1.2.1
+matplotlib == 3.11.1
