@@ -2,8 +2,8 @@ import livef1
 
 # Get a specific race session
 session = livef1.get_session(
-    season=2024,
-    meeting_identifier="Spa",
+    season=2026,
+    meeting_identifier="Hungary",
     session_identifier="Race"
 )
 
